@@ -1,0 +1,11 @@
+{
+	"require":{
+
+        "monolog/monolog": "1.0.*",
+
+        "nesbot/carbon": "^2.11",
+		"fabpot/goutte": "^3.2"
+
+    }
+
+}
